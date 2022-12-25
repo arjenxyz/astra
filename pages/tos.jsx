@@ -4,7 +4,7 @@ export default function Tos() {
      <h2 className="mt-4 text-white font-bold text-3xl">Hizmet şartları</h2>
       <p className="text-sm text-white/30 mb-1">Son güncelleme: 25/12/2022</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-<p>⊳ </p>
+<p>⊳ Kodlamalar Github Sitemizde Yayınlanmıştır.</p>
 <div className="py-3"></div>
 <p>⊳ Diğer sunuculara zarar vermek için açık kaynak kodları kullanamazsınız.Her discord sunucusu Astra botu ücretsiz olarak kullanabilir, ücret karşılığında satılması veya pazarlanması kesinlikle yasaktır.</p>
 <div className="py-3"></div>
