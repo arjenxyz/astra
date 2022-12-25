@@ -18,7 +18,7 @@ export default function Footer() {
                                 <div>
                                     <Menu.Button className="flex z-1 items-center w-full px-4 py-2 text-sm font-medium text-white bg-black rounded-md bg-opacity-20 hover:bg-opacity-30 focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
                                         <img
-                                            src={`https://www.google.com/search?q=turkiye+bayra%C4%9F%C4%B1+src&client=ms-android-alcatel-rev1&prmd=insv&sxsrf=ALiCzsZHZ9U36VdvYEdugZYx6lI3nPW_jA:1671972324248&source=lnms&tbm=isch&sa=X&ved=2ahUKEwji1tej5pT8AhUQSfEDHYnZDAcQ_AUoAXoECAIQAQ&biw=360&bih=628&dpr=2#imgrc=ll2Pl1gFYLQgeM`}
+                                            src={`https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg`}
                                             width="24"
                                             height="18"
                                             className="mr-2 h-4 rounded-sm"
