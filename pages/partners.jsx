@@ -39,7 +39,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">Gizem Kurt'un Yan Çarları</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                    You can get help on software and similar issues or you can spend time chatting. How about being a cool developer?
+                                    Gizem Kurt'un resmi sunucusudur.
                                     </p>
                                 </div>     
                             </div>
