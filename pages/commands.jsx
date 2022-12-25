@@ -109,8 +109,8 @@ Astra'yı Davet Et</a>
   <Link href={"https://discord.gg/jJfwdBMDEC"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Destek Sunucusu</a>
-  </Link>
 
+</div>
       </div>
       <div className="py-20"></div>
     </>
