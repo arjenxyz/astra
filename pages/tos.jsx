@@ -14,7 +14,7 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Botu kullanırken diğer kullanıcılara zarar verecek şekilde troll amaçlı kullanamazsınız.</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot at certain intervals.</p>
+<p>⊳ Belirli discord bot komutlarını kullanmak için <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> botuna oy vermeniz gerekmektedir.</p>
 </div>
     </div>
   );
