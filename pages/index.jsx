@@ -90,7 +90,7 @@ Vote Astra</a>
                   <p className="text-3xl text-white font-semibold">En iyi müzik botu</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot Astra ile en güzel partileri vermeye hazır mısınız?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1052258751681400902/1056616064668160040/Screenshot_1.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
