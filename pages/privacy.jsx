@@ -9,13 +9,13 @@ export default function Privacy() {
         <div className="py-3"></div>
         <p>⊳ Bot komutlarından belirli komutları kullanırken <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> botuna oy vermeniz gerekiyor.</p>
         <div className="py-3"></div>
-        <p>⊳ Every user can use the astra bot however they want, as long as they do not intend to harm.</p>
+        <p>⊳ Her kullanıcı zarar verme amacı taşımadığı sürece astra botu istediği gibi kullanabilir.</p>
         <div className="py-3"></div>
-        <p>⊳ You cannot use certain commands at the same time while using Astra.</p>   
+        <p>⊳ Astra kullanırken belirli komutları aynı anda kullanamazsınız.</p>   
         <div className="py-3"></div>
-        <p>⊳ Astra bot does not save any data based on users.</p>
+        <p>⊳ Astra bot kullanıcı bazında herhangi bir veri kaydetmez.</p>
         <div className="py-3"></div>
-        <p>⊳ While using the bot, your user ID is saved and deleted in the system for 60 seconds for once.</p> 
+        <p>⊳ Botu kullanırken kullanıcı kimliğiniz bir defaya mahsus olmak üzere 60 saniye süreyle sisteme kaydedilir ve silinir.</p> 
     
         </div>
             </div>
