@@ -3,27 +3,43 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    
+"/autoplay",
+"/back",
+"/channel add",
+"/channel remove",
+"/clear",
+"/dj set",
+"/dj reset",
+"/filter",
+"/help",
+"/language",
+"/loop",
+"/nowplaying",
+"/pause",
+"/ping",
+"/play normal",
+"/play playlist",
+"/playlist create",
+"/playlist delete",
+"/playlist delete-music",
+"/playlist add-music"
+,"/playlist lists",
+"/playlist list",
+"/queue",
+"/playlist top",
+"/save",
+"/resume",
+"/seek",
+"/search",
+"/skip",
+"/shuffle",
+"/stop",
+"/statistic",
+"/volume",
+"/time"
+
+
       ]
   return (
     <>
