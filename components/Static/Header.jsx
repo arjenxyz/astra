@@ -76,14 +76,14 @@ const Header = ({ $, NavItems }) => {
                 <div className="max-w-7xl px-5 mx-auto py-5 flex items-center justify-between">
                     <div className="flex items-center space-x-6">
                         <div className="flex items-center space-x-3">
-                            <img src="https://cdn.discordapp.com/attachments/1052258751681400902/1056881629676716144/71425ddb6a9fa0ab92c8dcc30dfe08f9.gif" 
+                            <img src="https://cdn.discordapp.com/attachments/1052258751681400902/1056887067013025802/MyGif_1672051796003.gif" 
                                 className={`
                                     rounded-full 
                                 `}
                                 width="48" height="48"
                             />
                             <p className="invisible md:visible text-xl text-white font-semibold">
-                              <a href="/"><span className="text-amber-400">Astra</span>Bot</a>
+                              <a href="/"><span className="text-amber-400">İtalyan</span>#0142</a>
                             </p>
                         </div>
                         <ul className="hidden lg:flex items-center space-x-4">
