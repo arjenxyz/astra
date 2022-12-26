@@ -51,7 +51,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Vote",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/bot/104898773098353461/vote",
+      href: "https://top.gg/bot/1048987730983534612/vote",
     },
     {
       link: true,
