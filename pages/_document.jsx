@@ -18,18 +18,18 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@MusicMaker" />
           <meta property="og:url" content="https://musicmaker.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="MusicMaker4" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="https://cdn.discordapp.com/attachments/1052258751681400902/1056990540371075102/a7066cc536bc180d4d6bcaaee5780058.gif"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="Hiç ara vermeden müzik dinlemeye ne dersiniz? 750'den fazla desteklenen ses platformuyla kendi çalma listelerinizi oluşturun ve dinlemeye başlayın."
           />
-          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1052258751681400902/1056990540371075102/a7066cc536bc180d4d6bcaaee5780058.gif" />
-          <meta property="og:image:alt" content="MusicMakere" />
+          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image:alt" content="MusicMaker" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
