@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="https://cdn.discordapp.com/attachments/1052258751681400902/1056990540371075102/a7066cc536bc180d4d6bcaaee5780058.gif" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -28,8 +28,8 @@ class MyDocument extends Document {
             property="og:description"
             content="Hiç ara vermeden müzik dinlemeye ne dersiniz? 750'den fazla desteklenen ses platformuyla kendi çalma listelerinizi oluşturun ve dinlemeye başlayın."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image" content="https://cdn.discordapp.com/attachments/1052258751681400902/1056990540371075102/a7066cc536bc180d4d6bcaaee5780058.gif" />
+          <meta property="og:image:alt" content="İtalyan" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
