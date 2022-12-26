@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <meta name="twitter:creator" content="@MusicMaker" />
           <meta property="og:url" content="https://musicmaker.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker4" />
+          <meta property="og:title" content="Made By İtalyan" />
           <link
             rel="icon"
             href="https://cdn.discordapp.com/attachments/1052258751681400902/1056990540371075102/a7066cc536bc180d4d6bcaaee5780058.gif"
