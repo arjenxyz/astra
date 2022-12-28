@@ -4,41 +4,36 @@ import Link from "next/link";
 export default function Commands() {
   const commands = [
     
-"/autoplay",
-"/back",
-"/channel add",
-"/channel remove",
-"/clear",
-"/dj set",
-"/dj reset",
-"/filter",
-"/help",
-"/language",
-"/loop",
-"/nowplaying",
-"/pause",
-"/ping",
-"/play normal",
-"/play playlist",
-"/playlist create",
-"/playlist delete",
-"/playlist delete-music",
-"/playlist add-music"
-,"/playlist lists",
-"/playlist list",
-"/queue",
-"/playlist top",
-"/save",
-"/resume",
-"/seek",
-"/search",
-"/skip",
-"/shuffle",
-"/stop",
-"/statistic",
-"/volume",
-"/time"
-
+"!about",
+"!help", 
+"!invite", 
+"!ping", 
+"!ban", 
+"!infractions", 
+"!kick", 
+"!modlogs", 
+"!mute", 
+"!purge", 
+"!setmute", 
+"!unban", 
+"!unmute", 
+"!warn", 
+"!dj", 
+"!lyrics", 
+"!nowplaying", 
+"!pause", 
+"!play", 
+"!queue", 
+"!remove", 
+"!repeat", 
+"!resume", 
+"!search", 
+"!shuffle", 
+"!skip", 
+"!skipto", 
+"!stayinvoice", 
+"!stop", 
+"!volume"
 
       ]
   return (
@@ -49,10 +44,10 @@ export default function Commands() {
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Astra Bot Komutları
+         Bellatrix Bot Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        Astra Bot'un komutları hakkında bilgi alabilirsiniz.
+        Bellatrix Bot'un komutları hakkında bilgi alabilirsiniz.
         </p>
 
         <div>
@@ -101,7 +96,7 @@ export default function Commands() {
   
   <Link href={"https://discord.com/oauth2/authorize?client_id=1048987730983534612&permissions=277028603968&scope=applications.commands%20bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Astra'yı Davet Et</a>
+Bellatrix'i Davet Et</a>
   </Link>
 
   <div className="py-10"></div>
@@ -114,7 +109,7 @@ Destek Sunucusu</a>
   
   <Link href={"https://top.gg/bot/1048987730983534612/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Vote Bellatrix</a>
   </Link>
 </div>
       </div>
