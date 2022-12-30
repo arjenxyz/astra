@@ -66,6 +66,14 @@ export default function AwardApp({ Component, pageProps }) {
       icon: "fab fa-robot",
       activeIcon: "fab fa-robot",
       href: "https://discord.com/api/oauth2/authorize?client_id=1053636007825776680&permissions=8&scope=bot%20applications.commands",
+    },
+   
+    {
+      link: true,
+      name: "ModMail Bot",
+      icon: "fab fa-robot",
+      activeIcon: "fab fa-robot",
+      href: "/modmail",
     }
   ]
 
