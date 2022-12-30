@@ -62,18 +62,18 @@ export default function AwardApp({ Component, pageProps }) {
     },
      {
       link: true,
-      name: "ModMail Bot",
+      name: "ModMail Bot Bilgi",
       icon: "fab fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=1053636007825776680&permissions=8&scope=bot%20applications.commands",
+      href: "/modmail",
     },
    
     {
       link: true,
-      name: "ModMail Bot",
+      name: "ModMail Bot Davet",
       icon: "fab fa-robot",
       activeIcon: "fab fa-robot",
-      href: "/modmail",
+      href: "https://discord.com/api/oauth2/authorize?client_id=1053636007825776680&permissions=8&scope=bot%20applications.commands",
     }
   ]
 
