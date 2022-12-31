@@ -62,7 +62,7 @@ export default function AwardApp({ Component, pageProps }) {
     },
    {
       link: true,
-      name: "ModMail Bot Bilgi",
+      name: "Uptime Bot",
       icon: "fab fa-robot",
       activeIcon: "fab fa-robot",
       href: "/uptime",
