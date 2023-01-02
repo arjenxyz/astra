@@ -81,7 +81,7 @@ export default function Commands() {
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {Matrix}</>
+                         {astra}</>
                     </button>
                     </Menu.Item>
             ))}
