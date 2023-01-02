@@ -44,10 +44,10 @@ export default function Commands() {
       </div>
         <p className="text-xl font-medium text-white">
           <i className="fal fa-cogs text-amber-400 mr-2" />
-         Bellatrix Bot Komutları
+         Matrix Bot Komutları
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        Bellatrix Bot'un komutları hakkında bilgi alabilirsiniz.
+        Matrix Bot'un komutları hakkında bilgi alabilirsiniz.
         </p>
 
         <div>
@@ -81,7 +81,7 @@ export default function Commands() {
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {astra}</>
+                         {Matrix}</>
                     </button>
                     </Menu.Item>
             ))}
@@ -96,7 +96,7 @@ export default function Commands() {
   
   <Link href={"https://discord.com/oauth2/authorize?client_id=1048987730983534612&permissions=277028603968&scope=applications.commands%20bot"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Bellatrix'i Davet Et</a>
+Matrix'i Davet Et</a>
   </Link>
 
   <div className="py-10"></div>
@@ -109,7 +109,7 @@ Destek Sunucusu</a>
   
   <Link href={"https://top.gg/bot/1048987730983534612/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Bellatrix</a>
+Vote Matrix</a>
   </Link>
 </div>
       </div>
