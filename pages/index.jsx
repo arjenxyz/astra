@@ -47,7 +47,7 @@ Vote Matrix</a>
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Bellatrix Bot" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "Kendi duygularınızla kendinizi rahatlatabileceğiniz en iyi ortamı yaratmaya ne dersiniz?" }}/>
             <a href="https://discord.com/oauth2/authorize?client_id=1048987730983534612&permissions=277028603968&scope=applications.commands%20bot" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Bellatrix'i Davet Et
+              <i className="fab fa-discord mr-2" />Matrix'i Davet Et
             </a>
           </div>
 
