@@ -45,7 +45,7 @@ export default function Footer() {
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"İtalyan#0142 - Bellatrix Bot"}
+                            {"İtalyan#0142 - Matrix Bot"}
                         </p>
                     </div>
                 </div>
