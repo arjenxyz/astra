@@ -10,10 +10,10 @@ export default function Index() {
       <img width="500" src="/img/bck.png" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Bellatrix Bot
+          Matrix Bot
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-          Bellatrix bot ile kendi sunucunuza ritim katmaya ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi çalma listenizi oluşturun, bu keyfi en iyi seslerle yaşayın.
+          Matrix bot ile kendi sunucunuza ritim katmaya ne dersiniz? Kendi özgür dünyanızı yaratın ve kendi çalma listenizi oluşturun, bu keyfi en iyi seslerle yaşayın.
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -23,13 +23,13 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Bellatrix'i Davet Et
+          Matrix'i Davet Et
               </a>
             </Link>
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/1048987730983534612/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Bellatrix</a>
+Vote Matrix</a>
   </Link>
         </div>
 
@@ -57,7 +57,7 @@ Vote Bellatrix</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
-                  <p className="text-gray-500 line-clamp-4">Bellatrix, sunucunuza özel hızlı ve özelleştirilebilir ayarlarla size müzik keyfini doyasıya yaşatır.</p>
+                  <p className="text-gray-500 line-clamp-4">Matrix, sunucunuza özel hızlı ve özelleştirilebilir ayarlarla size müzik keyfini doyasıya yaşatır.</p>
                 </div>
               </div>
               <div>
