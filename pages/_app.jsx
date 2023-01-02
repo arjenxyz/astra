@@ -59,20 +59,6 @@ export default function AwardApp({ Component, pageProps }) {
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/partners",
-    },
-   {
-      link: true,
-      name: "Uptime Bot",
-      icon: "fab fa-robot",
-      activeIcon: "fab fa-robot",
-      href: "/uptime",
-    },
-     {
-      link: true,
-      name: "ModMail Bot Bilgi",
-      icon: "fab fa-robot",
-      activeIcon: "fab fa-robot",
-      href: "/modmail",
     }
   ]
 
