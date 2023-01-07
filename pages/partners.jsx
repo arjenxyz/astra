@@ -18,7 +18,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/XuWuujhMBR">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/720554756556324914/a_d21a65779377599ea4f8d415218f3b34.gif?size=2048" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/720554756556324914/c57c5637de0358917abab4d1c709ceaf.png?size=2048" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Rabel Code</h1>        
                                 <div className="flex items-center mt-1">
