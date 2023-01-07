@@ -63,7 +63,7 @@ export default function AwardApp({ Component, pageProps }) {
    
    {
       link: true,
-      name: "Partners",
+      name: "Terms Of Use",
       icon: "fal fa-handshake",
       activeIcon: "fa fa-handshake",
       href: "/privacy.jsx"
