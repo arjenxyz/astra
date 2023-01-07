@@ -60,6 +60,15 @@ export default function AwardApp({ Component, pageProps }) {
       activeIcon: "fa fa-handshake",
       href: "/partners",
     }
+   
+   {
+      link: true,
+      name: "Partners",
+      icon: "fal fa-handshake",
+      activeIcon: "fa fa-handshake",
+      href: "/privacy.jsx"
+    }
+   
   ]
 
   return (
