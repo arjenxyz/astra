@@ -8,13 +8,11 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ Every discord server can use the Matrix bot for free, it is strictly forbidden to sell or market it for a fee.</p>
 <div className="py-3"></div>
-<p>⊳ </p>
+<p>⊳ Every user can use the Matrix bot as they wish, as long as it does not intend to harm.</p>
 <div className="py-3"></div>
-<p>⊳ </p>
+<p>⊳ Matrix bot does not save any data per user.</p>
 <div className="py-3"></div>
-<p>⊳ </p>
-<div className="py-3"></div>
-<p>⊳ </p>
+<p>⊳ Every user has the right to complain. You can tag @Matrix#2736 on your server for communication.</p>
 </div>
     </div>
   );
