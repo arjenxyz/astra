@@ -33,7 +33,7 @@ class MyDocument extends Document {
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Bellatrix Bot"
+            content="Matrix Bot"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="https://cdn.discordapp.com/attachments/1052258751681400902/1056990540371075102/a7066cc536bc180d4d6bcaaee5780058.gif" type="image/x-icon" />
