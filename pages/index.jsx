@@ -88,14 +88,12 @@ Vote Matrix</a>
               </div>
           </div>
       </div>
- <widgetbot
-    server="1045785935419277442"
-    channel="1052258751681400902"
-    width="800"
-    height="600"
-></widgetbot>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script> 
-
+ <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1063067473089413160', // Bot Deneme
+        channel: '1063072203610001479' // #sohbet
+    })
+</script>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
