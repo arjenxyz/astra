@@ -78,7 +78,13 @@ Vote Matrix</a>
               </div>
           </div>
       </div>
-
+ <widgetbot
+    server="1045785935419277442"
+    channel="1052258751681400902"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script> 
 <iframe class="rounded" src=" https://emerald.widgetbot.io/channels/719915577380044810/726885899891376249 " height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups izin verilen formlar"></iframe>
 
 
