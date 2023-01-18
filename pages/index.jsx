@@ -43,12 +43,7 @@ Vote Matrix</a>
 
 
 
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1045785935419277442', // Arjentina
-        channel: '1055095061894938674' // #destek
-    })
-</script>
+
 
 
 
@@ -100,7 +95,6 @@ Vote Matrix</a>
     height="600"
 ></widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script> 
-
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
