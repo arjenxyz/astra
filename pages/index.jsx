@@ -79,7 +79,7 @@ Vote Matrix</a>
           </div>
       </div>
 
-<iframe class="rounded" src=" https://emerald.widgetbot.io/channels/398998849026261003/399069831820869632 " height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups izin verilen formlar"></iframe>
+<iframe class="rounded" src=" https://emerald.widgetbot.io/channels/719915577380044810/726885899891376249 " height="600" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups izin verilen formlar"></iframe>
 
 
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
